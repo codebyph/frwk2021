@@ -1,0 +1,14 @@
+.header
+{   display: flex;  
+    align-items: center;
+    background-color: #5F3473;  }
+
+.header a 
+{   display: flex;
+    align-items: center;    
+    text-decoration: none;  }
+
+.header .logo 
+{   max-height: 32px;   }
+
+
